@@ -1,0 +1,100 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+body{
+    font-family: 'Noto Sans KR','Nanum Gothic';
+    background-color: #d8d8;
+}
+.logo{
+    background-color: #fff;
+}
+.wrapper{
+    /*border: 1px solid;*/
+    border-radius: 30px;
+    margin-top: 30px;
+    background-color: #fff;
+
+}
+.firstt{
+    margin-top: 30px;
+    text-align: center;
+}
+.btn_1{display: inline-block;
+    font-weight:400;
+    color: #fff;
+    text-align: center;
+    vertical-align:middle;
+    background-color:#007bff;
+    border: 1px solid #007bff;
+    margin-top: 35px;
+    padding: 7px;
+    margin: 0 auto;
+}
+.btn_1:hover{
+    color:#fff
+}
+article{
+    display: flex;
+    flex-direction: column;
+}
+.question{
+    display: none;
+}
+.btn_2{display: inline-block;
+    font-weight:400;
+    color: #fff;
+    text-align: center;
+    vertical-align:middle;
+    background-color:#007bff;
+    border: 1px solid #007bff;
+    padding: 8px;
+    border-radius: .25rem;
+    margin: 0 auto;
+    width: 85%;
+    margin-bottom: 3%;
+    font-size: 15px;
+}
+.btn_2:hover{
+    color:#fff
+}
+.problem1{
+    text-align: center;
+    margin: 35px;
+    font-size: 20px;
+}
+.progress{
+    margin-top: 35px;
+}
+.result{
+    display: none;
+}
+#img{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+}
+.img-circle{
+    border-radius: 50%;
+    margin-top: 50px !important;
+}
+.flower-name{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 27px;
+}
+.ex{
+    margin-top: 50px;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+.share{
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.kakao_ad{
+    width: 320px;
+    margin:0 auto;
+    margin-top: 400px;
+}
+#explain{
+    padding:6%;
+}

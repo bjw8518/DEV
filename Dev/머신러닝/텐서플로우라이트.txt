@@ -1,0 +1,5 @@
+예제 1
+https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md
+
+예제 2
+https://m.blog.naver.com/chacha_0303/222112245119

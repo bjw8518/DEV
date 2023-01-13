@@ -1,0 +1,25 @@
+#header {
+  position: relative;
+  padding: 60px 0 54px;
+  overflow: hidden;
+}
+
+.container {
+  display: block;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  background-image: url("../img/naver.png");
+  background-size: 240px auto;
+  width: 240px;
+  height: 45px;
+}
+
+.lang {
+  position: absolute;
+  top: 14px;
+  right: 0;
+  padding: 0px 50px 0px 0px;
+}
